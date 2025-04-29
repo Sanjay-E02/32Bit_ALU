@@ -219,7 +219,7 @@ Steps for simulation – Run the simulation command with simulator options
 ![WhatsApp Image 2025-04-29 at 14 46 03_b3b63a17](https://github.com/user-attachments/assets/cc5d89b6-2e0b-4ae9-9a9b-3835992826b1)
 
 ## Fig 9: Design Browser window for simulation
-![WhatsApp Image 2025-04-29 at 14 45 49_282a08fd](https://github.com/user-attachments/assets/1632a5cb-9609-420a-8bfd-69ecb0721c31)
+![WhatsApp Image 2025-04-29 at 19 28 43_b143d5a7](https://github.com/user-attachments/assets/79223695-f04c-4cfe-937a-d6a3fd812ddb)
 
 ## Fig 10:Simulation Waveform Window
 ![WhatsApp Image 2025-04-29 at 14 45 49_282a08fd](https://github.com/user-attachments/assets/dd42289a-be31-49fb-98ad-970befd24e99)
